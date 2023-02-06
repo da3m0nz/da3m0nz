@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @staymilad
+- 👋 Hi, I’m @da3m0nz
 - 👀 I’m interested in programming and video-game
 - 🌱 I’m currently learning Django
 - 📫 Reach me @ 
